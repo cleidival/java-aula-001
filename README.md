@@ -1,7 +1,7 @@
 # Projeto Crud de Usuários - Java Spring Boot + Postgresql + Docker
 
 ## 📍 Descrição do Projeto
-Este projeto visa, testar os conhecimentos práticos de desenvolvimento de uma api em backend usando repositorio em postgresql e docker.
+Este projeto visa, testar os conhecimentos práticos de desenvolvimento de uma api em backend usando repositório em postgresql e docker.
 
 ---
 
